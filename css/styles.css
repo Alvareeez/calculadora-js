@@ -1,0 +1,15 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.margen {
+    margin: 0%;
+    width: 100%;
+}
+
+p {
+    color: white;
+    background-color: blue;
+}
